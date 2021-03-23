@@ -44,7 +44,7 @@ Documentation for Sanctum can be found on the [Laravel website](https://laravel.
      </li>
 </ul>
 
-##Info
+## Info
 <p> to protect routes use the 'auth:sanctum' middleware :
 <code>
    Route::middleware('auth:sanctum')
